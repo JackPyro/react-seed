@@ -1,2 +1,2 @@
-# react-side
+# react-seed
 personal react seed 
